@@ -17,7 +17,7 @@
  -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    
+
     <!-- General app strings -->
     <string name="extensions_title">Extensions</string>
     <string name="add">Add</string>
@@ -452,7 +452,7 @@
     <string name="charging_animation_summary">Display an animation when the device is plugged in</string>
 
     <!-- Battery Settings -->
-    <string name="battery_settings_title">Battery Settings</string>   
+    <string name="battery_settings_title">Battery Settings</string>
 
     <!-- Battery Styles -->
     <string name="battery_style_category_title">Battery styles</string>
@@ -475,7 +475,7 @@
     <string name="status_bar_battery_percentage_title">Battery percentage</string>
     <string name="status_bar_battery_percentage_default">Hidden (default)</string>
     <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>  
+    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
 
     <!-- Monet Engine -->
     <string name="monet_category">Monet</string>
@@ -630,4 +630,8 @@
     <string name="reticker_summary">Replace heads-up notification with slim and less invasive version of redesigned ticker</string>
     <string name="reticker_colored_title">Use app colored background</string>
     <string name="reticker_colored_summary">Replace reTicker background color using notification app main color</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
 </resources>

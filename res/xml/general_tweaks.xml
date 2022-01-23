@@ -38,6 +38,12 @@
             android:summary="@string/gms_enabled_desc"
             android:defaultValue="true" />
 
+            <org.aospextended.support.preference.SystemSettingSwitchPreference
+                android:key="sensor_block"
+                android:title="@string/sensor_block_title"
+                android:summary="@string/sensor_block_summary"
+                android:defaultValue="true" />
+
 
     </PreferenceCategory>
 

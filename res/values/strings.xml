@@ -623,7 +623,11 @@
 
     <!-- GMS switch -->
    <string name="gms_category">GMS</string>
-   <string name="gms_enabled">Enable Google services</string>
+   <string name="gms_enabled">Enable Google services (Test)</string>
    <string name="gms_enabled_desc">Disable Google services may help extend the battery life, but third-party apps relying on GMS components will not work properly.</string>
+
+   <!-- Sensor block per-package -->
+   <string name="sensor_block_title">Sensor block per-package</string>
+   <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
 
 </resources>

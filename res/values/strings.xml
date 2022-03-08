@@ -624,4 +624,8 @@
     <string name="volume_steps_system_title">Volume steps: System</string>
     <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
     <string name="volume_steps_reset">Reset</string>
+
+    <string name="volte_switch_title">Show VoLTE icon</string>
+    <string name="volte_switch_summary">Show VoLTE icon in status bar when available</string>
+
 </resources>

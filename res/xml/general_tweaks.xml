@@ -33,7 +33,7 @@
             android:defaultValue="false" />
 
         <org.aospextended.support.preference.SecureSettingSwitchPreference
-            android:key="gms_switch"
+            android:key="gms_enabled"
             android:title="@string/gms_enabled"
             android:summary="@string/gms_enabled_desc"
             android:defaultValue="true" />

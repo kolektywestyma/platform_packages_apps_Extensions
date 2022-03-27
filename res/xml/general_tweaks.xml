@@ -38,12 +38,18 @@
             android:summary="@string/gms_enabled_desc"
             android:defaultValue="true" />
 
-            <org.aospextended.support.preference.SystemSettingSwitchPreference
-                android:key="sensor_block"
-                android:title="@string/sensor_block_title"
-                android:summary="@string/sensor_block_summary"
-                android:defaultValue="true" />
+        <org.aospextended.support.preference.SystemSettingSwitchPreference
+            android:key="sensor_block"
+            android:title="@string/sensor_block_title"
+            android:summary="@string/sensor_block_summary"
+            android:defaultValue="true" />
 
+        <org.aospextended.support.preference.SystemSettingSwitchPreference
+           android:key="arcane_idle_manager"
+           android:title="@string/arcane_idle_manager_title"
+           settings:iconSpaceReserved="false"
+           android:summary="@string/arcane_idle_manager_summary"
+           android:defaultValue="false" />
 
     </PreferenceCategory>
 
